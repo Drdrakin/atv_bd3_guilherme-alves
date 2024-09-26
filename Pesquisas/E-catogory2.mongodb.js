@@ -12,3 +12,5 @@ db[collection].find(
         ]
     }
 )
+
+//Pesquisa por duas categorias, ou seja, uma categoria ou outra

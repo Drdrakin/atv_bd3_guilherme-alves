@@ -12,3 +12,6 @@ db[collection].find(
         ]
     }
 )
+
+//Exluir os produtos de duas categorias e mostrar os de outras categorias
+//Testado

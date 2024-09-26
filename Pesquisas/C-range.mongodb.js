@@ -6,8 +6,9 @@ use(database);
 
 db[collection].find(
    {  valor: {
-       $gt: 30, $lt: 50
+       $gt: 35, $lt: 50
      }}
 )
 
-//Testado 
+//Preços em uma determinada faixa
+//Testado
